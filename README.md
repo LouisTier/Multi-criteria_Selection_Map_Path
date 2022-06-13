@@ -18,9 +18,9 @@ A path is characterized by **different attributes**, namely:
 We also have the "**Maps**" folder with **examples of maps to use for our application**.
 
 In everyday life, we are always faced with choices of paths to get from point A to point B. Our final decision is guided by various reasons: 
-  - wanting to take our time and go by a beautiful green path
-  - to take the shortest route even if it means passing through tolls
-  - to take the fastest route even if the consumption will probably be more important
+  - Wanting to take our time and go by a beautiful green path
+  - To take the shortest route even if it means passing through tolls
+  - To take the fastest route even if the consumption will probably be more important
   - Many other examples... 
 Finally, there are many routes available, and as the old saying goes: "All roads lead to Rome". 
 So, our problem is, **which route to follow to get from one point to another among the proposed paths, cities, and places?**
@@ -29,7 +29,7 @@ This project allowed us to become familiar with different problems and to get in
 - **The shortest path**
 - **The nearest neighbors** 
 - **The Dijkstra algorithm**
-- **The A* algorithm**
+- **The A\* algorithm**
 
 This project was done in a school context with two other classmates. The scope and the subject were free.
 
