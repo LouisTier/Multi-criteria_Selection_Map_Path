@@ -37,7 +37,9 @@ This project was done in a school context with two other classmates. The scope a
 
 To better **visualize the methods, attributes and relationships between our 5 classes**, here is the class diagram of our project.
 
-![image](https://user-images.githubusercontent.com/105392989/173350728-de02c8be-72db-4ad7-aa9b-6d79a14798e1.png)
+<div id="class diagram" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/173350728-de02c8be-72db-4ad7-aa9b-6d79a14798e1.png" width="800">
+</div>
 
 ## **3. Some main algorithms**
 
@@ -158,16 +160,22 @@ To better **visualize the methods, attributes and relationships between our 5 cl
 Here are some results obtained after using our application.
 
   **1. Example Map**
-  
-![image](https://user-images.githubusercontent.com/105392989/173352385-53a9ba74-94a2-4209-8c25-bc90d75c06b8.png)
+
+<div id="Example" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/173352385-53a9ba74-94a2-4209-8c25-bc90d75c06b8.png" width="600">
+</div>
 
   **2. Occitanie Map** (South of France) 
-  
-![image](https://user-images.githubusercontent.com/105392989/173352249-0e8afdea-3dea-4a0c-9053-2a42a0609520.png)
+
+<div id="Occitanie" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/173352249-0e8afdea-3dea-4a0c-9053-2a42a0609520.png" width="600">
+</div>
 
   **3. France Map** 
-  
-![image](https://user-images.githubusercontent.com/105392989/173351876-5f9814b0-d1ff-4595-b90b-dbbd327b7ed6.png)
+
+<div id="France" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/173351876-5f9814b0-d1ff-4595-b90b-dbbd327b7ed6.png" width="600">
+</div>
 
 ## **Instructions for use**
 
